@@ -1,1 +1,0 @@
-https://medium.com/hackernoon/writing-unit-tests-for-rest-api-in-python-web-application-2e675a601a53 
