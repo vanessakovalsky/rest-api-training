@@ -49,6 +49,7 @@ ghp_NXG5sECj8SzcOVpz7jo2QV2U6pk6Re1nCh4Z
 * Créer un script qui va via des appels API réaliser les actions suivantes :
 *  * Créer un dépôt
 *  * Récupérer les informations sur l'utilisateur et les mettre dans un fichier contributors.txt
+*  * Pour aller plus loin : créer aussi une app slack pour votre prrjet et permettez lui via l'API de publier des messages : https://api.slack.com/authentication/basics 
 * Créer un deuxième script qui permet via un choix de l'utilisateur et via l'API de faire les actions suivantes :
 *  * Voir la liste des branches
 *  * Voir la liste des pull requests
