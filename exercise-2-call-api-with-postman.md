@@ -44,3 +44,12 @@ ghp_NXG5sECj8SzcOVpz7jo2QV2U6pk6Re1nCh4Z
     * Vérifier dans le navigateur sur github que le depôt test est bien apparu dans vos dépôts
 
 * En plus de la documentation, l'ensemble des actions possibles et des commandes cURL associées sont disponibles ici : https://www.softwaretestinghelp.com/github-rest-api-tutorial/ 
+
+## Ecrire un script d'initialisation de projet sur github
+* Créer un script qui va via des appels API réaliser les actions suivantes :
+*  * Créer un dépôt
+*  * Récupérer les informations sur l'utilisateur et les mettre dans un fichier contributors.txt
+* Créer un deuxième script qui permet via un choix de l'utilisateur et via l'API de faire les actions suivantes :
+*  * Voir la liste des branches
+*  * Voir la liste des pull requests
+*  * Voir la liste des contriuteurs
